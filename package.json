@@ -1,8 +1,9 @@
 {
-  "name": "chef-food-backend",
+  "name": " ",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "proxy.js",
   "scripts": {
+    "start": "node proxy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
